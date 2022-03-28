@@ -1,0 +1,60 @@
+body{
+    background-color: blue;
+    color: beige;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.text{
+    text-align: center;/*это свойство переносит текст на центр*/
+}
+.img{
+    width: 700px;/*это ширина*/
+    /*height: 400px;это высота*/
+}
+body {
+    font-size: 30px;/* размер шрифта*/
+}
+.right {
+    text-align: right;
+}
+.right:hover {
+    color: blue;
+}
+.px {
+font-size : 45px;
+}
+.weight{
+font-weight: 600;
+}
+.letter{
+letter-spacing:12px;
+}
+.decoration{
+text-decoration:underline;
+}
+.transform{
+   text-transform:uppercase; 
+}
+.px:hover{
+    color:purple;
+}
+.weight:hover{
+    color:pink;
+}
+    
+
+.letter:hover{
+    color:orange;
+}
+.decoration{
+    color:purple;
+}
+.transform{
+    color:orange;
+}!
